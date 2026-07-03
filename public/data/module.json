@@ -1,0 +1,41 @@
+{
+  "id": "mod-rust-basic",
+  "slug": "module-rust-basic",
+  "title": "Rust系统编程基础",
+  "subtitle": "面向系统编程和后端开发者",
+  "description": "面向系统编程后端云原生和安全编程学习者的Rust语法所有权借用生命周期结构体枚举错误处理泛型Trait并发展与项目实战训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "Rust",
+    "系统编程",
+    "所有权",
+    "借用",
+    "生命周期",
+    "Trait",
+    "并发",
+    "异步"
+  ],
+  "estimatedHours": 180,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "🦀",
+  "repoUrl": "https://github.com/openskill-galaxy/module-rust-basic",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 126
+  }
+}

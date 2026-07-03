@@ -1,0 +1,520 @@
+[
+  {
+    "id": "rs-course-01",
+    "order": 1,
+    "slug": "Rust入门",
+    "title": "Rust入门与系统编程路线",
+    "description": "Rust特点、优势、应用场景、学习路线。",
+    "estimatedHours": 4,
+    "difficulty": "easy",
+    "tags": [
+      "Rust入门与系统编程路线"
+    ],
+    "lessonIds": [
+      "rs-lesson-001",
+      "rs-lesson-002",
+      "rs-lesson-003",
+      "rs-lesson-004",
+      "rs-lesson-005",
+      "rs-lesson-006",
+      "rs-lesson-007",
+      "rs-lesson-008",
+      "rs-lesson-009",
+      "rs-lesson-010",
+      "rs-lesson-011",
+      "rs-lesson-012",
+      "rs-lesson-013"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-02",
+    "order": 2,
+    "slug": "Cargo项目",
+    "title": "Rust环境、Cargo与项目结构",
+    "description": "rustc、Cargo、crate、package、模块。",
+    "estimatedHours": 6,
+    "difficulty": "easy",
+    "tags": [
+      "Rust环境、Cargo与项目结构"
+    ],
+    "lessonIds": [
+      "rs-lesson-014",
+      "rs-lesson-015",
+      "rs-lesson-016",
+      "rs-lesson-017",
+      "rs-lesson-018",
+      "rs-lesson-019",
+      "rs-lesson-020",
+      "rs-lesson-021",
+      "rs-lesson-022",
+      "rs-lesson-023",
+      "rs-lesson-024",
+      "rs-lesson-025",
+      "rs-lesson-026"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-03",
+    "order": 3,
+    "slug": "变量类型函数",
+    "title": "变量、类型、函数与控制流",
+    "description": "变量mut、常量、shadowing、tuple、array、if/loop/while。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "变量、类型、函数与控制流"
+    ],
+    "lessonIds": [
+      "rs-lesson-027",
+      "rs-lesson-028",
+      "rs-lesson-029",
+      "rs-lesson-030",
+      "rs-lesson-031",
+      "rs-lesson-032",
+      "rs-lesson-033",
+      "rs-lesson-034",
+      "rs-lesson-035",
+      "rs-lesson-036",
+      "rs-lesson-037",
+      "rs-lesson-038",
+      "rs-lesson-039"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-04",
+    "order": 4,
+    "slug": "所有权移动",
+    "title": "所有权、移动与拷贝",
+    "description": "所有权规则、move、copy、clone。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "所有权、移动与拷贝"
+    ],
+    "lessonIds": [
+      "rs-lesson-040",
+      "rs-lesson-041",
+      "rs-lesson-042",
+      "rs-lesson-043",
+      "rs-lesson-044",
+      "rs-lesson-045",
+      "rs-lesson-046",
+      "rs-lesson-047",
+      "rs-lesson-048",
+      "rs-lesson-049",
+      "rs-lesson-050",
+      "rs-lesson-051",
+      "rs-lesson-052"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-05",
+    "order": 5,
+    "slug": "借用引用",
+    "title": "借用、引用与可变性",
+    "description": "引用、借用规则、可变引用、悬垂引用。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "借用、引用与可变性"
+    ],
+    "lessonIds": [
+      "rs-lesson-053",
+      "rs-lesson-054",
+      "rs-lesson-055",
+      "rs-lesson-056",
+      "rs-lesson-057",
+      "rs-lesson-058",
+      "rs-lesson-059",
+      "rs-lesson-060",
+      "rs-lesson-061",
+      "rs-lesson-062",
+      "rs-lesson-063",
+      "rs-lesson-064",
+      "rs-lesson-065"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-06",
+    "order": 6,
+    "slug": "生命周期",
+    "title": "生命周期基础",
+    "description": "生命周期标注、省略规则、生命周期约束。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "生命周期基础"
+    ],
+    "lessonIds": [
+      "rs-lesson-066",
+      "rs-lesson-067",
+      "rs-lesson-068",
+      "rs-lesson-069",
+      "rs-lesson-070",
+      "rs-lesson-071",
+      "rs-lesson-072",
+      "rs-lesson-073",
+      "rs-lesson-074",
+      "rs-lesson-075",
+      "rs-lesson-076",
+      "rs-lesson-077",
+      "rs-lesson-078"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-07",
+    "order": 7,
+    "slug": "结构体方法",
+    "title": "结构体、方法与关联函数",
+    "description": "struct、impl、method、associated function。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "结构体、方法与关联函数"
+    ],
+    "lessonIds": [
+      "rs-lesson-079",
+      "rs-lesson-080",
+      "rs-lesson-081",
+      "rs-lesson-082",
+      "rs-lesson-083",
+      "rs-lesson-084",
+      "rs-lesson-085",
+      "rs-lesson-086",
+      "rs-lesson-087",
+      "rs-lesson-088",
+      "rs-lesson-089",
+      "rs-lesson-090",
+      "rs-lesson-091"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-08",
+    "order": 8,
+    "slug": "枚举模式",
+    "title": "枚举、Option、Result与模式匹配",
+    "description": "enum、match、if let、Option、Result。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "枚举、Option、Result与模式匹配"
+    ],
+    "lessonIds": [
+      "rs-lesson-092",
+      "rs-lesson-093",
+      "rs-lesson-094",
+      "rs-lesson-095",
+      "rs-lesson-096",
+      "rs-lesson-097",
+      "rs-lesson-098",
+      "rs-lesson-099",
+      "rs-lesson-100",
+      "rs-lesson-101",
+      "rs-lesson-102",
+      "rs-lesson-103",
+      "rs-lesson-104"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-09",
+    "order": 9,
+    "slug": "错误处理",
+    "title": "错误处理与健壮程序设计",
+    "description": "panic、unwrap、expect、?运算符、错误类型。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "错误处理与健壮程序设计"
+    ],
+    "lessonIds": [
+      "rs-lesson-105",
+      "rs-lesson-106",
+      "rs-lesson-107",
+      "rs-lesson-108",
+      "rs-lesson-109",
+      "rs-lesson-110",
+      "rs-lesson-111",
+      "rs-lesson-112",
+      "rs-lesson-113",
+      "rs-lesson-114",
+      "rs-lesson-115",
+      "rs-lesson-116",
+      "rs-lesson-117"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-10",
+    "order": 10,
+    "slug": "泛型Trait",
+    "title": "泛型、Trait与Trait Bound",
+    "description": "泛型函数、Trait定义、Trait Bound、derive。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "泛型、Trait与Trait Bound"
+    ],
+    "lessonIds": [
+      "rs-lesson-118",
+      "rs-lesson-119",
+      "rs-lesson-120",
+      "rs-lesson-121",
+      "rs-lesson-122",
+      "rs-lesson-123",
+      "rs-lesson-124",
+      "rs-lesson-125",
+      "rs-lesson-126",
+      "rs-lesson-127",
+      "rs-lesson-128",
+      "rs-lesson-129",
+      "rs-lesson-130"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-11",
+    "order": 11,
+    "slug": "集合迭代器",
+    "title": "集合、字符串与迭代器",
+    "description": "Vec、HashMap、String、Iterator、闭包。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "集合、字符串与迭代器"
+    ],
+    "lessonIds": [
+      "rs-lesson-131",
+      "rs-lesson-132",
+      "rs-lesson-133",
+      "rs-lesson-134",
+      "rs-lesson-135",
+      "rs-lesson-136",
+      "rs-lesson-137",
+      "rs-lesson-138",
+      "rs-lesson-139",
+      "rs-lesson-140",
+      "rs-lesson-141",
+      "rs-lesson-142",
+      "rs-lesson-143"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-12",
+    "order": 12,
+    "slug": "模块工程",
+    "title": "模块、包、Crate与工程组织",
+    "description": "模块系统、pub、use、层次化组织。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "模块、包、Crate与工程组织"
+    ],
+    "lessonIds": [
+      "rs-lesson-144",
+      "rs-lesson-145",
+      "rs-lesson-146",
+      "rs-lesson-147",
+      "rs-lesson-148",
+      "rs-lesson-149",
+      "rs-lesson-150",
+      "rs-lesson-151",
+      "rs-lesson-152",
+      "rs-lesson-153",
+      "rs-lesson-154",
+      "rs-lesson-155",
+      "rs-lesson-156"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-13",
+    "order": 13,
+    "slug": "并发异步",
+    "title": "并发、异步与Tokio入门",
+    "description": "thread、Mutex、Arc、Send/Sync、async/await。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "并发、异步与Tokio入门"
+    ],
+    "lessonIds": [
+      "rs-lesson-157",
+      "rs-lesson-158",
+      "rs-lesson-159",
+      "rs-lesson-160",
+      "rs-lesson-161",
+      "rs-lesson-162",
+      "rs-lesson-163",
+      "rs-lesson-164",
+      "rs-lesson-165",
+      "rs-lesson-166",
+      "rs-lesson-167",
+      "rs-lesson-168",
+      "rs-lesson-169"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-course-14",
+    "order": 14,
+    "slug": "Rust项目面试",
+    "title": "Rust项目实战、面试与进阶路线",
+    "description": "项目实战、CLI工具、面试题。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "Rust项目实战、面试与进阶路线"
+    ],
+    "lessonIds": [
+      "rs-lesson-170",
+      "rs-lesson-171",
+      "rs-lesson-172",
+      "rs-lesson-173",
+      "rs-lesson-174",
+      "rs-lesson-175",
+      "rs-lesson-176",
+      "rs-lesson-177",
+      "rs-lesson-178",
+      "rs-lesson-179",
+      "rs-lesson-180",
+      "rs-lesson-181",
+      "rs-lesson-182"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解所有权和借用",
+      "掌握Rust语法",
+      "能写并发程序",
+      "完成Rust项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

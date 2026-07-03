@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "rs-case-001",
+    "title": "Hello Rust案例1",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000083",
+      "rs-q-001214",
+      "rs-q-001420"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-002",
+    "title": "变量可变性案例2",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003579",
+      "rs-q-000888",
+      "rs-q-001109"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-003",
+    "title": "所有权移动案例3",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000825",
+      "rs-q-001837",
+      "rs-q-002303"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-004",
+    "title": "借用错误修复案例4",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001703",
+      "rs-q-001267",
+      "rs-q-001749"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-005",
+    "title": "生命周期标注案例5",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002624",
+      "rs-q-002802",
+      "rs-q-003566"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-006",
+    "title": "结构体建模案例6",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003584",
+      "rs-q-000150",
+      "rs-q-002613"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-007",
+    "title": "枚举状态机案例7",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002933",
+      "rs-q-000567",
+      "rs-q-003282"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-008",
+    "title": "Option处理案例8",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003185",
+      "rs-q-002407",
+      "rs-q-001737"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-009",
+    "title": "Result错误传播案例9",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001684",
+      "rs-q-000866",
+      "rs-q-002602"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-010",
+    "title": "Vec统计案例10",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002280",
+      "rs-q-001980",
+      "rs-q-000448"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-011",
+    "title": "HashMap词频案例11",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002471",
+      "rs-q-002277",
+      "rs-q-002734"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-012",
+    "title": "Iterator链式案例12",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003611",
+      "rs-q-000453",
+      "rs-q-003181"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-013",
+    "title": "Trait抽象案例13",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002460",
+      "rs-q-002342",
+      "rs-q-000922"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-014",
+    "title": "模块组织案例14",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001656",
+      "rs-q-002177",
+      "rs-q-000320"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-015",
+    "title": "单元测试案例15",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003114",
+      "rs-q-000509",
+      "rs-q-003029"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-016",
+    "title": "线程共享数据案例16",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000086",
+      "rs-q-003462",
+      "rs-q-001844"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-017",
+    "title": "Tokio异步入门案例17",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000617",
+      "rs-q-001512",
+      "rs-q-002400"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-018",
+    "title": "CLI工具案例18",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001702",
+      "rs-q-003185",
+      "rs-q-002671"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-019",
+    "title": "Rust面试案例19",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001577",
+      "rs-q-002645",
+      "rs-q-002705"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-020",
+    "title": "Hello Rust案例20",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002369",
+      "rs-q-001613",
+      "rs-q-001792"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-021",
+    "title": "变量可变性案例21",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000737",
+      "rs-q-001347",
+      "rs-q-002081"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-022",
+    "title": "所有权移动案例22",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003617",
+      "rs-q-002146",
+      "rs-q-000352"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-023",
+    "title": "借用错误修复案例23",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001386",
+      "rs-q-002935",
+      "rs-q-000767"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-024",
+    "title": "生命周期标注案例24",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003472",
+      "rs-q-003313",
+      "rs-q-002999"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-025",
+    "title": "结构体建模案例25",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001646",
+      "rs-q-001528",
+      "rs-q-001444"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-026",
+    "title": "枚举状态机案例26",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000469",
+      "rs-q-002663",
+      "rs-q-001468"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-027",
+    "title": "Option处理案例27",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001432",
+      "rs-q-003239",
+      "rs-q-000844"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-028",
+    "title": "Result错误传播案例28",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000563",
+      "rs-q-003170",
+      "rs-q-002611"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-029",
+    "title": "Vec统计案例29",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000216",
+      "rs-q-000514",
+      "rs-q-001784"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-030",
+    "title": "HashMap词频案例30",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001296",
+      "rs-q-002605",
+      "rs-q-000807"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-031",
+    "title": "Iterator链式案例31",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000919",
+      "rs-q-002775",
+      "rs-q-001781"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-032",
+    "title": "Trait抽象案例32",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002772",
+      "rs-q-000585",
+      "rs-q-002079"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-033",
+    "title": "模块组织案例33",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000712",
+      "rs-q-001444",
+      "rs-q-001077"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-034",
+    "title": "单元测试案例34",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002253",
+      "rs-q-000492",
+      "rs-q-000513"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-035",
+    "title": "线程共享数据案例35",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001060",
+      "rs-q-000631",
+      "rs-q-000821"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-036",
+    "title": "Tokio异步入门案例36",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001456",
+      "rs-q-002136",
+      "rs-q-000457"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-037",
+    "title": "CLI工具案例37",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000653",
+      "rs-q-003132",
+      "rs-q-001478"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-038",
+    "title": "Rust面试案例38",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003058",
+      "rs-q-001510",
+      "rs-q-000580"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-039",
+    "title": "Hello Rust案例39",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001964",
+      "rs-q-000364",
+      "rs-q-000192"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-040",
+    "title": "变量可变性案例40",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000120",
+      "rs-q-002767",
+      "rs-q-002144"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-041",
+    "title": "所有权移动案例41",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000683",
+      "rs-q-003605",
+      "rs-q-001247"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-042",
+    "title": "借用错误修复案例42",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001502",
+      "rs-q-001197",
+      "rs-q-002451"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-043",
+    "title": "生命周期标注案例43",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002975",
+      "rs-q-001991",
+      "rs-q-002971"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-044",
+    "title": "结构体建模案例44",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001508",
+      "rs-q-003095",
+      "rs-q-000042"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-045",
+    "title": "枚举状态机案例45",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002719",
+      "rs-q-000353",
+      "rs-q-001140"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-046",
+    "title": "Option处理案例46",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000420",
+      "rs-q-000796",
+      "rs-q-001325"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-047",
+    "title": "Result错误传播案例47",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001125",
+      "rs-q-002110",
+      "rs-q-002197"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-048",
+    "title": "Vec统计案例48",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001645",
+      "rs-q-001066",
+      "rs-q-000810"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-049",
+    "title": "HashMap词频案例49",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001765",
+      "rs-q-000214",
+      "rs-q-000708"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-050",
+    "title": "Iterator链式案例50",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001077",
+      "rs-q-002600",
+      "rs-q-003607"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-051",
+    "title": "Trait抽象案例51",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002358",
+      "rs-q-000436",
+      "rs-q-001760"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-052",
+    "title": "模块组织案例52",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001629",
+      "rs-q-002515",
+      "rs-q-002219"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-053",
+    "title": "单元测试案例53",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001180",
+      "rs-q-001113",
+      "rs-q-002426"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-054",
+    "title": "线程共享数据案例54",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000427",
+      "rs-q-001194",
+      "rs-q-002266"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-055",
+    "title": "Tokio异步入门案例55",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003159",
+      "rs-q-000520",
+      "rs-q-002021"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-056",
+    "title": "CLI工具案例56",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002319",
+      "rs-q-001756",
+      "rs-q-001959"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-057",
+    "title": "Rust面试案例57",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002593",
+      "rs-q-000052",
+      "rs-q-000015"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-058",
+    "title": "Hello Rust案例58",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000316",
+      "rs-q-000549",
+      "rs-q-003681"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-059",
+    "title": "变量可变性案例59",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000138",
+      "rs-q-002329",
+      "rs-q-003644"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-060",
+    "title": "所有权移动案例60",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001442",
+      "rs-q-000814",
+      "rs-q-001179"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-061",
+    "title": "借用错误修复案例61",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003167",
+      "rs-q-000258",
+      "rs-q-000663"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-062",
+    "title": "生命周期标注案例62",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001570",
+      "rs-q-001591",
+      "rs-q-002446"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-063",
+    "title": "结构体建模案例63",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002655",
+      "rs-q-002195",
+      "rs-q-000131"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-064",
+    "title": "枚举状态机案例64",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000751",
+      "rs-q-003559",
+      "rs-q-003633"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-065",
+    "title": "Option处理案例65",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003513",
+      "rs-q-000015",
+      "rs-q-002966"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-066",
+    "title": "Result错误传播案例66",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002435",
+      "rs-q-001148",
+      "rs-q-002160"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-067",
+    "title": "Vec统计案例67",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003609",
+      "rs-q-000920",
+      "rs-q-000836"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-068",
+    "title": "HashMap词频案例68",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003016",
+      "rs-q-002816",
+      "rs-q-001363"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-069",
+    "title": "Iterator链式案例69",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003394",
+      "rs-q-001916",
+      "rs-q-000089"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-070",
+    "title": "Trait抽象案例70",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002419",
+      "rs-q-003313",
+      "rs-q-000314"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-071",
+    "title": "模块组织案例71",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002678",
+      "rs-q-001712",
+      "rs-q-000147"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-072",
+    "title": "单元测试案例72",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003533",
+      "rs-q-000990",
+      "rs-q-001848"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-073",
+    "title": "线程共享数据案例73",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003361",
+      "rs-q-000818",
+      "rs-q-001654"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-074",
+    "title": "Tokio异步入门案例74",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001614",
+      "rs-q-000894",
+      "rs-q-000680"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-075",
+    "title": "CLI工具案例75",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000816",
+      "rs-q-002435",
+      "rs-q-003111"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-076",
+    "title": "Rust面试案例76",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002427",
+      "rs-q-003379",
+      "rs-q-001606"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-077",
+    "title": "Hello Rust案例77",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001882",
+      "rs-q-001116",
+      "rs-q-000191"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-078",
+    "title": "变量可变性案例78",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003669",
+      "rs-q-000827",
+      "rs-q-000114"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-079",
+    "title": "所有权移动案例79",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002344",
+      "rs-q-001818",
+      "rs-q-002552"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-080",
+    "title": "借用错误修复案例80",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001630",
+      "rs-q-001904",
+      "rs-q-001677"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-081",
+    "title": "生命周期标注案例81",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002961",
+      "rs-q-003141",
+      "rs-q-002458"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-082",
+    "title": "结构体建模案例82",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002908",
+      "rs-q-003077",
+      "rs-q-000169"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-083",
+    "title": "枚举状态机案例83",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003189",
+      "rs-q-001585",
+      "rs-q-003125"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-084",
+    "title": "Option处理案例84",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003465",
+      "rs-q-000965",
+      "rs-q-000336"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-085",
+    "title": "Result错误传播案例85",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000891",
+      "rs-q-002585",
+      "rs-q-000358"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-086",
+    "title": "Vec统计案例86",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000272",
+      "rs-q-001929",
+      "rs-q-001768"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-087",
+    "title": "HashMap词频案例87",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003290",
+      "rs-q-000979",
+      "rs-q-002195"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-088",
+    "title": "Iterator链式案例88",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002352",
+      "rs-q-000523",
+      "rs-q-002473"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-089",
+    "title": "Trait抽象案例89",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001569",
+      "rs-q-000733",
+      "rs-q-002721"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-090",
+    "title": "模块组织案例90",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001939",
+      "rs-q-003461",
+      "rs-q-001322"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-091",
+    "title": "单元测试案例91",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002191",
+      "rs-q-003327",
+      "rs-q-002498"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-092",
+    "title": "线程共享数据案例92",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001986",
+      "rs-q-000472",
+      "rs-q-003092"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-093",
+    "title": "Tokio异步入门案例93",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000817",
+      "rs-q-002078",
+      "rs-q-001531"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-094",
+    "title": "CLI工具案例94",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000855",
+      "rs-q-002593",
+      "rs-q-000298"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-095",
+    "title": "Rust面试案例95",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000604",
+      "rs-q-000395",
+      "rs-q-002349"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-096",
+    "title": "Hello Rust案例96",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003374",
+      "rs-q-003128",
+      "rs-q-001015"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-097",
+    "title": "变量可变性案例97",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002327",
+      "rs-q-003605",
+      "rs-q-002345"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-098",
+    "title": "所有权移动案例98",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001708",
+      "rs-q-000058",
+      "rs-q-000798"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-099",
+    "title": "借用错误修复案例99",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002052",
+      "rs-q-002808",
+      "rs-q-002971"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-100",
+    "title": "生命周期标注案例100",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002450",
+      "rs-q-001849",
+      "rs-q-001727"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-101",
+    "title": "结构体建模案例101",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001522",
+      "rs-q-000307",
+      "rs-q-002698"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-102",
+    "title": "枚举状态机案例102",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002366",
+      "rs-q-001379",
+      "rs-q-001414"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-103",
+    "title": "Option处理案例103",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002380",
+      "rs-q-002276",
+      "rs-q-002501"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-104",
+    "title": "Result错误传播案例104",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001380",
+      "rs-q-000460",
+      "rs-q-002469"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-105",
+    "title": "Vec统计案例105",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001175",
+      "rs-q-003446",
+      "rs-q-001892"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-106",
+    "title": "HashMap词频案例106",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002327",
+      "rs-q-001725",
+      "rs-q-001560"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-107",
+    "title": "Iterator链式案例107",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000609",
+      "rs-q-003327",
+      "rs-q-001521"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-108",
+    "title": "Trait抽象案例108",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003483",
+      "rs-q-002868",
+      "rs-q-002673"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-109",
+    "title": "模块组织案例109",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000125",
+      "rs-q-001279",
+      "rs-q-000078"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-110",
+    "title": "单元测试案例110",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003473",
+      "rs-q-003257",
+      "rs-q-001773"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-111",
+    "title": "线程共享数据案例111",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000646",
+      "rs-q-001221",
+      "rs-q-000084"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-112",
+    "title": "Tokio异步入门案例112",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003614",
+      "rs-q-002837",
+      "rs-q-000840"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-113",
+    "title": "CLI工具案例113",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003286",
+      "rs-q-003623",
+      "rs-q-000022"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-114",
+    "title": "Rust面试案例114",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002960",
+      "rs-q-003524",
+      "rs-q-003261"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-115",
+    "title": "Hello Rust案例115",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002215",
+      "rs-q-002395",
+      "rs-q-000945"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-116",
+    "title": "变量可变性案例116",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000702",
+      "rs-q-001368",
+      "rs-q-000021"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-117",
+    "title": "所有权移动案例117",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000403",
+      "rs-q-002029",
+      "rs-q-001026"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-118",
+    "title": "借用错误修复案例118",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002332",
+      "rs-q-001897",
+      "rs-q-000672"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-119",
+    "title": "生命周期标注案例119",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001002",
+      "rs-q-000121",
+      "rs-q-000684"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-120",
+    "title": "结构体建模案例120",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002000",
+      "rs-q-002119",
+      "rs-q-001027"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-121",
+    "title": "枚举状态机案例121",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002625",
+      "rs-q-000705",
+      "rs-q-002311"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-122",
+    "title": "Option处理案例122",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000704",
+      "rs-q-000652",
+      "rs-q-003362"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-123",
+    "title": "Result错误传播案例123",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002637",
+      "rs-q-003239",
+      "rs-q-003391"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-124",
+    "title": "Vec统计案例124",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001339",
+      "rs-q-003177",
+      "rs-q-000881"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-125",
+    "title": "HashMap词频案例125",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002666",
+      "rs-q-002254",
+      "rs-q-000212"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-126",
+    "title": "Iterator链式案例126",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000218",
+      "rs-q-002269",
+      "rs-q-001989"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-127",
+    "title": "Trait抽象案例127",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001224",
+      "rs-q-002002",
+      "rs-q-003245"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-128",
+    "title": "模块组织案例128",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001374",
+      "rs-q-000446",
+      "rs-q-000874"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-129",
+    "title": "单元测试案例129",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002256",
+      "rs-q-002088",
+      "rs-q-002233"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-130",
+    "title": "线程共享数据案例130",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003516",
+      "rs-q-000786",
+      "rs-q-001644"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-131",
+    "title": "Tokio异步入门案例131",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000738",
+      "rs-q-000062",
+      "rs-q-001954"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-132",
+    "title": "CLI工具案例132",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000698",
+      "rs-q-002466",
+      "rs-q-001412"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-133",
+    "title": "Rust面试案例133",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000531",
+      "rs-q-003455",
+      "rs-q-000502"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-134",
+    "title": "Hello Rust案例134",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002117",
+      "rs-q-002756",
+      "rs-q-001789"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-135",
+    "title": "变量可变性案例135",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001875",
+      "rs-q-000484",
+      "rs-q-003025"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-136",
+    "title": "所有权移动案例136",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001864",
+      "rs-q-002214",
+      "rs-q-000812"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-137",
+    "title": "借用错误修复案例137",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001772",
+      "rs-q-001682",
+      "rs-q-003336"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-138",
+    "title": "生命周期标注案例138",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001843",
+      "rs-q-001836",
+      "rs-q-003291"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-139",
+    "title": "结构体建模案例139",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001770",
+      "rs-q-000394",
+      "rs-q-002628"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-140",
+    "title": "枚举状态机案例140",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001179",
+      "rs-q-000277",
+      "rs-q-003120"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-141",
+    "title": "Option处理案例141",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000899",
+      "rs-q-002883",
+      "rs-q-001483"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-142",
+    "title": "Result错误传播案例142",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000860",
+      "rs-q-001232",
+      "rs-q-002085"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-143",
+    "title": "Vec统计案例143",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002613",
+      "rs-q-001141",
+      "rs-q-003417"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-144",
+    "title": "HashMap词频案例144",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001165",
+      "rs-q-002741",
+      "rs-q-003244"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-145",
+    "title": "Iterator链式案例145",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000055",
+      "rs-q-000692",
+      "rs-q-000499"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-146",
+    "title": "Trait抽象案例146",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000554",
+      "rs-q-002222",
+      "rs-q-002199"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-147",
+    "title": "模块组织案例147",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000529",
+      "rs-q-002791",
+      "rs-q-002426"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-148",
+    "title": "单元测试案例148",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000424",
+      "rs-q-001622",
+      "rs-q-002446"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-149",
+    "title": "线程共享数据案例149",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002180",
+      "rs-q-001592",
+      "rs-q-002364"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-150",
+    "title": "Tokio异步入门案例150",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000980",
+      "rs-q-001591",
+      "rs-q-003058"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-151",
+    "title": "CLI工具案例151",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000262",
+      "rs-q-002858",
+      "rs-q-003671"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-152",
+    "title": "Rust面试案例152",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001366",
+      "rs-q-000957",
+      "rs-q-003275"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-153",
+    "title": "Hello Rust案例153",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000034",
+      "rs-q-001170",
+      "rs-q-002688"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-154",
+    "title": "变量可变性案例154",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001880",
+      "rs-q-002378",
+      "rs-q-003080"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-155",
+    "title": "所有权移动案例155",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000052",
+      "rs-q-000811",
+      "rs-q-002706"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-156",
+    "title": "借用错误修复案例156",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000094",
+      "rs-q-000356",
+      "rs-q-001453"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-157",
+    "title": "生命周期标注案例157",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002523",
+      "rs-q-002568",
+      "rs-q-002386"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-158",
+    "title": "结构体建模案例158",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001256",
+      "rs-q-000236",
+      "rs-q-001618"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-159",
+    "title": "枚举状态机案例159",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001114",
+      "rs-q-001382",
+      "rs-q-003560"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-160",
+    "title": "Option处理案例160",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000812",
+      "rs-q-000419",
+      "rs-q-003013"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-161",
+    "title": "Result错误传播案例161",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001073",
+      "rs-q-000351",
+      "rs-q-002988"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-162",
+    "title": "Vec统计案例162",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002459",
+      "rs-q-000848",
+      "rs-q-003680"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-163",
+    "title": "HashMap词频案例163",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002820",
+      "rs-q-002456",
+      "rs-q-003116"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-164",
+    "title": "Iterator链式案例164",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000785",
+      "rs-q-002853",
+      "rs-q-002867"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-165",
+    "title": "Trait抽象案例165",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001545",
+      "rs-q-003116",
+      "rs-q-003604"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-166",
+    "title": "模块组织案例166",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001547",
+      "rs-q-001482",
+      "rs-q-000912"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-167",
+    "title": "单元测试案例167",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003278",
+      "rs-q-003593",
+      "rs-q-002911"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-168",
+    "title": "线程共享数据案例168",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002059",
+      "rs-q-002494",
+      "rs-q-003512"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-169",
+    "title": "Tokio异步入门案例169",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000798",
+      "rs-q-002803",
+      "rs-q-000172"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-170",
+    "title": "CLI工具案例170",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002318",
+      "rs-q-003442",
+      "rs-q-002837"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-171",
+    "title": "Rust面试案例171",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001641",
+      "rs-q-000954",
+      "rs-q-003095"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-172",
+    "title": "Hello Rust案例172",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000222",
+      "rs-q-001382",
+      "rs-q-002086"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-173",
+    "title": "变量可变性案例173",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003348",
+      "rs-q-002476",
+      "rs-q-001305"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-174",
+    "title": "所有权移动案例174",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002241",
+      "rs-q-002809",
+      "rs-q-000057"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-175",
+    "title": "借用错误修复案例175",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001927",
+      "rs-q-001791",
+      "rs-q-003366"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-176",
+    "title": "生命周期标注案例176",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001287",
+      "rs-q-000283",
+      "rs-q-003369"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-177",
+    "title": "结构体建模案例177",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002087",
+      "rs-q-002108",
+      "rs-q-002039"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-178",
+    "title": "枚举状态机案例178",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000648",
+      "rs-q-001442",
+      "rs-q-001366"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-179",
+    "title": "Option处理案例179",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002676",
+      "rs-q-001685",
+      "rs-q-002512"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-180",
+    "title": "Result错误传播案例180",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000093",
+      "rs-q-000444",
+      "rs-q-000276"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-181",
+    "title": "Vec统计案例181",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001848",
+      "rs-q-003356",
+      "rs-q-002169"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-182",
+    "title": "HashMap词频案例182",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003345",
+      "rs-q-002835",
+      "rs-q-003162"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-183",
+    "title": "Iterator链式案例183",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002377",
+      "rs-q-002406",
+      "rs-q-001773"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-184",
+    "title": "Trait抽象案例184",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001602",
+      "rs-q-001068",
+      "rs-q-001418"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-185",
+    "title": "模块组织案例185",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002317",
+      "rs-q-001730",
+      "rs-q-000160"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-186",
+    "title": "单元测试案例186",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000877",
+      "rs-q-001816",
+      "rs-q-000791"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-187",
+    "title": "线程共享数据案例187",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001073",
+      "rs-q-001713",
+      "rs-q-002565"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-188",
+    "title": "Tokio异步入门案例188",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001422",
+      "rs-q-003665",
+      "rs-q-000432"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-189",
+    "title": "CLI工具案例189",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003064",
+      "rs-q-002261",
+      "rs-q-003131"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-190",
+    "title": "Rust面试案例190",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002110",
+      "rs-q-003076",
+      "rs-q-000183"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-191",
+    "title": "Hello Rust案例191",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000222",
+      "rs-q-000022",
+      "rs-q-000092"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-192",
+    "title": "变量可变性案例192",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003500",
+      "rs-q-002844",
+      "rs-q-003294"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-193",
+    "title": "所有权移动案例193",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003377",
+      "rs-q-001527",
+      "rs-q-001117"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-194",
+    "title": "借用错误修复案例194",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001451",
+      "rs-q-000067",
+      "rs-q-000486"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-195",
+    "title": "生命周期标注案例195",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001519",
+      "rs-q-000251",
+      "rs-q-000021"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-196",
+    "title": "结构体建模案例196",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000960",
+      "rs-q-003104",
+      "rs-q-000662"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-197",
+    "title": "枚举状态机案例197",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002074",
+      "rs-q-001459",
+      "rs-q-000605"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-198",
+    "title": "Option处理案例198",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002082",
+      "rs-q-002747",
+      "rs-q-001010"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-199",
+    "title": "Result错误传播案例199",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002677",
+      "rs-q-000604",
+      "rs-q-003195"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-200",
+    "title": "Vec统计案例200",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002111",
+      "rs-q-000498",
+      "rs-q-003406"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-201",
+    "title": "HashMap词频案例201",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000026",
+      "rs-q-001475",
+      "rs-q-001034"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-202",
+    "title": "Iterator链式案例202",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001326",
+      "rs-q-002232",
+      "rs-q-001805"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-203",
+    "title": "Trait抽象案例203",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002221",
+      "rs-q-001458",
+      "rs-q-000821"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-204",
+    "title": "模块组织案例204",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003203",
+      "rs-q-003072",
+      "rs-q-003046"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-205",
+    "title": "单元测试案例205",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003664",
+      "rs-q-003051",
+      "rs-q-003657"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-206",
+    "title": "线程共享数据案例206",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002676",
+      "rs-q-000874",
+      "rs-q-002939"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-207",
+    "title": "Tokio异步入门案例207",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001945",
+      "rs-q-000341",
+      "rs-q-000552"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-208",
+    "title": "CLI工具案例208",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002197",
+      "rs-q-002777",
+      "rs-q-002403"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-209",
+    "title": "Rust面试案例209",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003196",
+      "rs-q-002207",
+      "rs-q-003582"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-210",
+    "title": "Hello Rust案例210",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003337",
+      "rs-q-003173",
+      "rs-q-001298"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-211",
+    "title": "变量可变性案例211",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000463",
+      "rs-q-003681",
+      "rs-q-000733"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-212",
+    "title": "所有权移动案例212",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001363",
+      "rs-q-000430",
+      "rs-q-001718"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-213",
+    "title": "借用错误修复案例213",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001809",
+      "rs-q-002585",
+      "rs-q-000682"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-214",
+    "title": "生命周期标注案例214",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001252",
+      "rs-q-001075",
+      "rs-q-001559"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-215",
+    "title": "结构体建模案例215",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000929",
+      "rs-q-002509",
+      "rs-q-003356"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-216",
+    "title": "枚举状态机案例216",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002567",
+      "rs-q-003222",
+      "rs-q-002028"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-217",
+    "title": "Option处理案例217",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001742",
+      "rs-q-000214",
+      "rs-q-002192"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-218",
+    "title": "Result错误传播案例218",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000577",
+      "rs-q-000581",
+      "rs-q-002287"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-219",
+    "title": "Vec统计案例219",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001362",
+      "rs-q-003647",
+      "rs-q-002449"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-220",
+    "title": "HashMap词频案例220",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001855",
+      "rs-q-002331",
+      "rs-q-000192"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-221",
+    "title": "Iterator链式案例221",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001428",
+      "rs-q-001879",
+      "rs-q-000254"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-222",
+    "title": "Trait抽象案例222",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002994",
+      "rs-q-001449",
+      "rs-q-003135"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-223",
+    "title": "模块组织案例223",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003191",
+      "rs-q-000104",
+      "rs-q-001067"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-224",
+    "title": "单元测试案例224",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001507",
+      "rs-q-002105",
+      "rs-q-001154"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-225",
+    "title": "线程共享数据案例225",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000257",
+      "rs-q-001792",
+      "rs-q-003101"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-226",
+    "title": "Tokio异步入门案例226",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001563",
+      "rs-q-001062",
+      "rs-q-002987"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-227",
+    "title": "CLI工具案例227",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001683",
+      "rs-q-002485",
+      "rs-q-002578"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-228",
+    "title": "Rust面试案例228",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000838",
+      "rs-q-000682",
+      "rs-q-003132"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-229",
+    "title": "Hello Rust案例229",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003231",
+      "rs-q-002667",
+      "rs-q-000082"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-230",
+    "title": "变量可变性案例230",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001366",
+      "rs-q-001593",
+      "rs-q-000617"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-231",
+    "title": "所有权移动案例231",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002392",
+      "rs-q-002258",
+      "rs-q-000294"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-232",
+    "title": "借用错误修复案例232",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002293",
+      "rs-q-000449",
+      "rs-q-002962"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-233",
+    "title": "生命周期标注案例233",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000564",
+      "rs-q-000536",
+      "rs-q-001992"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-234",
+    "title": "结构体建模案例234",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000039",
+      "rs-q-002212",
+      "rs-q-002801"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-235",
+    "title": "枚举状态机案例235",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003035",
+      "rs-q-000608",
+      "rs-q-002594"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-236",
+    "title": "Option处理案例236",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001086",
+      "rs-q-002068",
+      "rs-q-001356"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-237",
+    "title": "Result错误传播案例237",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001529",
+      "rs-q-001180",
+      "rs-q-000607"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-238",
+    "title": "Vec统计案例238",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002185",
+      "rs-q-000106",
+      "rs-q-003433"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-239",
+    "title": "HashMap词频案例239",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002447",
+      "rs-q-000360",
+      "rs-q-002845"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-240",
+    "title": "Iterator链式案例240",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000299",
+      "rs-q-002375",
+      "rs-q-002938"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-241",
+    "title": "Trait抽象案例241",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003258",
+      "rs-q-002252",
+      "rs-q-000336"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-242",
+    "title": "模块组织案例242",
+    "description": "通过模块组织掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001880",
+      "rs-q-001992",
+      "rs-q-001656"
+    ],
+    "tags": [
+      "模块组织"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-243",
+    "title": "单元测试案例243",
+    "description": "通过单元测试掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000656",
+      "rs-q-001988",
+      "rs-q-002968"
+    ],
+    "tags": [
+      "单元测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-244",
+    "title": "线程共享数据案例244",
+    "description": "通过线程共享数据掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000144",
+      "rs-q-001232",
+      "rs-q-001668"
+    ],
+    "tags": [
+      "线程共享数据"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-245",
+    "title": "Tokio异步入门案例245",
+    "description": "通过Tokio异步入门掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002656",
+      "rs-q-001385",
+      "rs-q-000950"
+    ],
+    "tags": [
+      "Tokio异步入门"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-246",
+    "title": "CLI工具案例246",
+    "description": "通过CLI工具掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002050",
+      "rs-q-003398",
+      "rs-q-002993"
+    ],
+    "tags": [
+      "CLI工具"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-247",
+    "title": "Rust面试案例247",
+    "description": "通过Rust面试掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001076",
+      "rs-q-002354",
+      "rs-q-001410"
+    ],
+    "tags": [
+      "Rust面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-248",
+    "title": "Hello Rust案例248",
+    "description": "通过Hello Rust掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000555",
+      "rs-q-002830",
+      "rs-q-001831"
+    ],
+    "tags": [
+      "Hello Rust"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-249",
+    "title": "变量可变性案例249",
+    "description": "通过变量可变性掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001718",
+      "rs-q-003041",
+      "rs-q-002214"
+    ],
+    "tags": [
+      "变量可变性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-250",
+    "title": "所有权移动案例250",
+    "description": "通过所有权移动掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001018",
+      "rs-q-001683",
+      "rs-q-001664"
+    ],
+    "tags": [
+      "所有权移动"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-251",
+    "title": "借用错误修复案例251",
+    "description": "通过借用错误修复掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002315",
+      "rs-q-000593",
+      "rs-q-000471"
+    ],
+    "tags": [
+      "借用错误修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-252",
+    "title": "生命周期标注案例252",
+    "description": "通过生命周期标注掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000824",
+      "rs-q-003299",
+      "rs-q-000219"
+    ],
+    "tags": [
+      "生命周期标注"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-253",
+    "title": "结构体建模案例253",
+    "description": "通过结构体建模掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-001666",
+      "rs-q-001490",
+      "rs-q-000791"
+    ],
+    "tags": [
+      "结构体建模"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-254",
+    "title": "枚举状态机案例254",
+    "description": "通过枚举状态机掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002218",
+      "rs-q-003218",
+      "rs-q-001849"
+    ],
+    "tags": [
+      "枚举状态机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-255",
+    "title": "Option处理案例255",
+    "description": "通过Option处理掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003080",
+      "rs-q-002706",
+      "rs-q-000111"
+    ],
+    "tags": [
+      "Option处理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-256",
+    "title": "Result错误传播案例256",
+    "description": "通过Result错误传播掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-002064",
+      "rs-q-001456",
+      "rs-q-001848"
+    ],
+    "tags": [
+      "Result错误传播"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-257",
+    "title": "Vec统计案例257",
+    "description": "通过Vec统计掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-003196",
+      "rs-q-001610",
+      "rs-q-002632"
+    ],
+    "tags": [
+      "Vec统计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-258",
+    "title": "HashMap词频案例258",
+    "description": "通过HashMap词频掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000785",
+      "rs-q-002195",
+      "rs-q-002675"
+    ],
+    "tags": [
+      "HashMap词频"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-259",
+    "title": "Iterator链式案例259",
+    "description": "通过Iterator链式掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000143",
+      "rs-q-002570",
+      "rs-q-002582"
+    ],
+    "tags": [
+      "Iterator链式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "rs-case-260",
+    "title": "Trait抽象案例260",
+    "description": "通过Trait抽象掌握Rust",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "rs-q-000599",
+      "rs-q-002186",
+      "rs-q-002427"
+    ],
+    "tags": [
+      "Trait抽象"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]
