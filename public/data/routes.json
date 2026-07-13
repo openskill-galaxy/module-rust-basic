@@ -12,7 +12,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线1"
   },
   {
     "id": "rs-route-02",
@@ -27,7 +28,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线2"
   },
   {
     "id": "rs-route-03",
@@ -42,7 +44,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线3"
   },
   {
     "id": "rs-route-04",
@@ -57,7 +60,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线4"
   },
   {
     "id": "rs-route-05",
@@ -72,7 +76,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线5"
   },
   {
     "id": "rs-route-06",
@@ -87,7 +92,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线6"
   },
   {
     "id": "rs-route-07",
@@ -102,7 +108,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线7"
   },
   {
     "id": "rs-route-08",
@@ -117,7 +124,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线8"
   },
   {
     "id": "rs-route-09",
@@ -132,7 +140,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线9"
   },
   {
     "id": "rs-route-10",
@@ -147,7 +156,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线10"
   },
   {
     "id": "rs-route-11",
@@ -162,7 +172,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线11"
   },
   {
     "id": "rs-route-12",
@@ -177,7 +188,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线12"
   },
   {
     "id": "rs-route-13",
@@ -192,7 +204,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线13"
   },
   {
     "id": "rs-route-14",
@@ -207,7 +220,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线14"
   },
   {
     "id": "rs-route-15",
@@ -222,7 +236,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线15"
   },
   {
     "id": "rs-route-16",
@@ -237,7 +252,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线16"
   },
   {
     "id": "rs-route-17",
@@ -252,7 +268,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线17"
   },
   {
     "id": "rs-route-18",
@@ -267,7 +284,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线18"
   },
   {
     "id": "rs-route-19",
@@ -282,7 +300,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线19"
   },
   {
     "id": "rs-route-20",
@@ -297,7 +316,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线20"
   },
   {
     "id": "rs-route-21",
@@ -312,7 +332,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线21"
   },
   {
     "id": "rs-route-22",
@@ -327,7 +348,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线22"
   },
   {
     "id": "rs-route-23",
@@ -342,7 +364,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线23"
   },
   {
     "id": "rs-route-24",
@@ -357,7 +380,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线24"
   },
   {
     "id": "rs-route-25",
@@ -372,7 +396,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线25"
   },
   {
     "id": "rs-route-26",
@@ -387,7 +412,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线26"
   },
   {
     "id": "rs-route-27",
@@ -402,7 +428,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线27"
   },
   {
     "id": "rs-route-28",
@@ -417,7 +444,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线28"
   },
   {
     "id": "rs-route-29",
@@ -432,7 +460,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线29"
   },
   {
     "id": "rs-route-30",
@@ -447,7 +476,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线30"
   },
   {
     "id": "rs-route-31",
@@ -462,7 +492,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线31"
   },
   {
     "id": "rs-route-32",
@@ -477,7 +508,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线32"
   },
   {
     "id": "rs-route-33",
@@ -492,7 +524,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线33"
   },
   {
     "id": "rs-route-34",
@@ -507,7 +540,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线34"
   },
   {
     "id": "rs-route-35",
@@ -522,6 +556,7 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "Rust路线35"
   }
 ]
