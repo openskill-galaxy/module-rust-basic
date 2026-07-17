@@ -1,562 +1,81 @@
 [
   {
-    "id": "rs-route-01",
-    "slug": "Rust路线1",
-    "title": "Rust路线1",
-    "description": "Rust路线1",
-    "targetUser": "目标1",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线1"
+    "id": "mod-rust-basic-route-1",
+    "slug": "professional-path",
+    "title": "Rust系统编程基础 专业级成长路线",
+    "summary": "带您由浅入深、由原理到实战系统通关 Rust系统编程基础 核心要点。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Rust系统编程基础 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-rust-basic-c-1",
+        "lessonId": "mod-rust-basic-l-1"
+      },
+      {
+        "order": 2,
+        "title": "Rust系统编程基础 配置文件覆盖与属性解析",
+        "description": "学习课时: 学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
+        "courseId": "mod-rust-basic-c-1",
+        "lessonId": "mod-rust-basic-l-2"
+      },
+      {
+        "order": 3,
+        "title": "Rust系统编程基础 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-rust-basic-c-2",
+        "lessonId": "mod-rust-basic-l-3"
+      },
+      {
+        "order": 4,
+        "title": "Rust系统编程基础 核心控制器与数据校验机制",
+        "description": "学习课时: 掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
+        "courseId": "mod-rust-basic-c-2",
+        "lessonId": "mod-rust-basic-l-4"
+      },
+      {
+        "order": 5,
+        "title": "Rust系统编程基础 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-rust-basic-c-3",
+        "lessonId": "mod-rust-basic-l-5"
+      },
+      {
+        "order": 6,
+        "title": "Rust系统编程基础 可观测性日志与分布式链路监控",
+        "description": "学习课时: 配置全局日志收集管道，分析高负载服务下的运行指标波动。",
+        "courseId": "mod-rust-basic-c-3",
+        "lessonId": "mod-rust-basic-l-6"
+      }
+    ]
   },
   {
-    "id": "rs-route-02",
-    "slug": "Rust路线2",
-    "title": "Rust路线2",
-    "description": "Rust路线2",
-    "targetUser": "目标2",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线2"
-  },
-  {
-    "id": "rs-route-03",
-    "slug": "Rust路线3",
-    "title": "Rust路线3",
-    "description": "Rust路线3",
-    "targetUser": "目标3",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线3"
-  },
-  {
-    "id": "rs-route-04",
-    "slug": "Rust路线4",
-    "title": "Rust路线4",
-    "description": "Rust路线4",
-    "targetUser": "目标4",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线4"
-  },
-  {
-    "id": "rs-route-05",
-    "slug": "Rust路线5",
-    "title": "Rust路线5",
-    "description": "Rust路线5",
-    "targetUser": "目标5",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线5"
-  },
-  {
-    "id": "rs-route-06",
-    "slug": "Rust路线6",
-    "title": "Rust路线6",
-    "description": "Rust路线6",
-    "targetUser": "目标6",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线6"
-  },
-  {
-    "id": "rs-route-07",
-    "slug": "Rust路线7",
-    "title": "Rust路线7",
-    "description": "Rust路线7",
-    "targetUser": "目标7",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线7"
-  },
-  {
-    "id": "rs-route-08",
-    "slug": "Rust路线8",
-    "title": "Rust路线8",
-    "description": "Rust路线8",
-    "targetUser": "目标8",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线8"
-  },
-  {
-    "id": "rs-route-09",
-    "slug": "Rust路线9",
-    "title": "Rust路线9",
-    "description": "Rust路线9",
-    "targetUser": "目标9",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线9"
-  },
-  {
-    "id": "rs-route-10",
-    "slug": "Rust路线10",
-    "title": "Rust路线10",
-    "description": "Rust路线10",
-    "targetUser": "目标10",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线10"
-  },
-  {
-    "id": "rs-route-11",
-    "slug": "Rust路线11",
-    "title": "Rust路线11",
-    "description": "Rust路线11",
-    "targetUser": "目标11",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线11"
-  },
-  {
-    "id": "rs-route-12",
-    "slug": "Rust路线12",
-    "title": "Rust路线12",
-    "description": "Rust路线12",
-    "targetUser": "目标12",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线12"
-  },
-  {
-    "id": "rs-route-13",
-    "slug": "Rust路线13",
-    "title": "Rust路线13",
-    "description": "Rust路线13",
-    "targetUser": "目标13",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线13"
-  },
-  {
-    "id": "rs-route-14",
-    "slug": "Rust路线14",
-    "title": "Rust路线14",
-    "description": "Rust路线14",
-    "targetUser": "目标14",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线14"
-  },
-  {
-    "id": "rs-route-15",
-    "slug": "Rust路线15",
-    "title": "Rust路线15",
-    "description": "Rust路线15",
-    "targetUser": "目标15",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线15"
-  },
-  {
-    "id": "rs-route-16",
-    "slug": "Rust路线16",
-    "title": "Rust路线16",
-    "description": "Rust路线16",
-    "targetUser": "目标16",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线16"
-  },
-  {
-    "id": "rs-route-17",
-    "slug": "Rust路线17",
-    "title": "Rust路线17",
-    "description": "Rust路线17",
-    "targetUser": "目标17",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线17"
-  },
-  {
-    "id": "rs-route-18",
-    "slug": "Rust路线18",
-    "title": "Rust路线18",
-    "description": "Rust路线18",
-    "targetUser": "目标18",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线18"
-  },
-  {
-    "id": "rs-route-19",
-    "slug": "Rust路线19",
-    "title": "Rust路线19",
-    "description": "Rust路线19",
-    "targetUser": "目标19",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线19"
-  },
-  {
-    "id": "rs-route-20",
-    "slug": "Rust路线20",
-    "title": "Rust路线20",
-    "description": "Rust路线20",
-    "targetUser": "目标20",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线20"
-  },
-  {
-    "id": "rs-route-21",
-    "slug": "Rust路线21",
-    "title": "Rust路线21",
-    "description": "Rust路线21",
-    "targetUser": "目标21",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线21"
-  },
-  {
-    "id": "rs-route-22",
-    "slug": "Rust路线22",
-    "title": "Rust路线22",
-    "description": "Rust路线22",
-    "targetUser": "目标22",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线22"
-  },
-  {
-    "id": "rs-route-23",
-    "slug": "Rust路线23",
-    "title": "Rust路线23",
-    "description": "Rust路线23",
-    "targetUser": "目标23",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线23"
-  },
-  {
-    "id": "rs-route-24",
-    "slug": "Rust路线24",
-    "title": "Rust路线24",
-    "description": "Rust路线24",
-    "targetUser": "目标24",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线24"
-  },
-  {
-    "id": "rs-route-25",
-    "slug": "Rust路线25",
-    "title": "Rust路线25",
-    "description": "Rust路线25",
-    "targetUser": "目标25",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线25"
-  },
-  {
-    "id": "rs-route-26",
-    "slug": "Rust路线26",
-    "title": "Rust路线26",
-    "description": "Rust路线26",
-    "targetUser": "目标26",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线26"
-  },
-  {
-    "id": "rs-route-27",
-    "slug": "Rust路线27",
-    "title": "Rust路线27",
-    "description": "Rust路线27",
-    "targetUser": "目标27",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线27"
-  },
-  {
-    "id": "rs-route-28",
-    "slug": "Rust路线28",
-    "title": "Rust路线28",
-    "description": "Rust路线28",
-    "targetUser": "目标28",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线28"
-  },
-  {
-    "id": "rs-route-29",
-    "slug": "Rust路线29",
-    "title": "Rust路线29",
-    "description": "Rust路线29",
-    "targetUser": "目标29",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线29"
-  },
-  {
-    "id": "rs-route-30",
-    "slug": "Rust路线30",
-    "title": "Rust路线30",
-    "description": "Rust路线30",
-    "targetUser": "目标30",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线30"
-  },
-  {
-    "id": "rs-route-31",
-    "slug": "Rust路线31",
-    "title": "Rust路线31",
-    "description": "Rust路线31",
-    "targetUser": "目标31",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线31"
-  },
-  {
-    "id": "rs-route-32",
-    "slug": "Rust路线32",
-    "title": "Rust路线32",
-    "description": "Rust路线32",
-    "targetUser": "目标32",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线32"
-  },
-  {
-    "id": "rs-route-33",
-    "slug": "Rust路线33",
-    "title": "Rust路线33",
-    "description": "Rust路线33",
-    "targetUser": "目标33",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线33"
-  },
-  {
-    "id": "rs-route-34",
-    "slug": "Rust路线34",
-    "title": "Rust路线34",
-    "description": "Rust路线34",
-    "targetUser": "目标34",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线34"
-  },
-  {
-    "id": "rs-route-35",
-    "slug": "Rust路线35",
-    "title": "Rust路线35",
-    "description": "Rust路线35",
-    "targetUser": "目标35",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "Rust路线35"
+    "id": "mod-rust-basic-route-2",
+    "slug": "quick-start-path",
+    "title": "Rust系统编程基础 快速通关极速路线",
+    "summary": "专为快速开发或面试突击设计的速成学习路径。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Rust系统编程基础 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-rust-basic-c-1",
+        "lessonId": "mod-rust-basic-l-1"
+      },
+      {
+        "order": 3,
+        "title": "Rust系统编程基础 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-rust-basic-c-2",
+        "lessonId": "mod-rust-basic-l-3"
+      },
+      {
+        "order": 5,
+        "title": "Rust系统编程基础 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-rust-basic-c-3",
+        "lessonId": "mod-rust-basic-l-5"
+      }
+    ]
   }
 ]
